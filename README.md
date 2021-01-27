@@ -15,7 +15,7 @@ So without any further delay, let's dive right into it!
 
 Be very careful while installing all the required software, as incompatible software versions will cause conflicts in the upcoming steps. Install these ones one by one:
 
-1. naconda - https://www.anaconda.com/products/individual
+1. Anaconda - https://www.anaconda.com/products/individual
 
 2. Python 3.8 - https://www.python.org/downloads/release/python-380/
 
