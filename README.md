@@ -1,7 +1,7 @@
 # Real-time-Face-mask-detector
 In this time of the pandemic, wearing masks is mandatory. So I came up with an idea. An idea about making a real-time mask detection model using Python and ML. Eventually, this became my topic for the Artificial Intelligence project in college.
 
-So without any further delay, let's dive right into it!
+So without any further delay, let's dive right into it! [CODE AVAILABLE IN MASTER BRANCH]
 
 # Hardware Requirements:
 
@@ -45,3 +45,11 @@ Be very careful while installing all the required software, as incompatible soft
 
 4. Under “System variables”, search for and click on the Path system variable, then click “Edit…”
 Add the following paths, then click “OK” to save the changes:
+
+<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin
+
+<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp
+
+<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\extras\CUPTI\libx64
+
+<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\cuda\bin
