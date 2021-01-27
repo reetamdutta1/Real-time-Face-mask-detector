@@ -95,7 +95,7 @@ It can take 30-50 minutes to run all the 20 epochs depending on your hardware co
 
 # Difference in Accuracy
 
-![](accuracy compare.jpg)
+![](accuracy compare.jpeg)
 ### Now we are ready to test our model in real-time
 Inside the same folder, open another Anaconda terminal(do not close the previous one). Now type the following line:
 
@@ -103,13 +103,13 @@ Inside the same folder, open another Anaconda terminal(do not close the previous
 
 After a few seconds, a separate window will appear where you can see your live webcam video feed.
 
-![](final demo.jpg)
+  ![](accuracy compare.jpeg))
 
 Finally, we have finished making our model and we are getting pretty good results. You can try the same procedure for other projects on categorisation(like cats and dogs classifications) and more.
 
 ## Contact me through:
    WhatsApp: +91-7596985078
-
+   
    Email: reetamdutta1@gmail.com
-
+   
    Website: https://bit.ly/rdgraphics_website
