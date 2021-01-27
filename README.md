@@ -1,7 +1,8 @@
 # Real-time-Face-mask-detector
 In this time of the pandemic, wearing masks is mandatory. So I came up with an idea. An idea about making a real-time mask detection model using Python and ML. Eventually, this became my topic for the Artificial Intelligence project in college.
 
-So without any further delay, let's dive right into it! [CODE AVAILABLE IN MASTER BRANCH]
+So without any further delay, let's dive right into it!
+### [CODE AVAILABLE IN MASTER BRANCH]
 
 # Hardware Requirements:
 
@@ -91,6 +92,7 @@ Normally for such projects, 1500-2000 images are enough to train the model. But 
        python train_mask_detector.py
 
 ![](epoch.png)
+
 It can take 30-50 minutes to run all the 20 epochs depending on your hardware configuration. Please wait patiently. It is advised not to do any CPU/GPU intensive tasks while this is being done.
 
 # Difference in Accuracy
