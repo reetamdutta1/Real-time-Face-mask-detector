@@ -46,10 +46,37 @@ Be very careful while installing all the required software, as incompatible soft
 4. Under “System variables”, search for and click on the Path system variable, then click “Edit…”
 Add the following paths, then click “OK” to save the changes:
 
-<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin
+       <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin
 
-<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp
+       <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\libnvvp
 
-<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\extras\CUPTI\libx64
+       <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\extras\CUPTI\libx64
 
-<INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\cuda\bin
+       <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\cuda\bin
+    
+![](se.png)
+
+# Download all the contents from this link:
+  GitHub has reduced the dataset from 8600 images to just 2000. In order to increase the accuracy of your model, you can download all the images from the link given below
+    
+  http://bit.ly/Face-Mask-Detection
+
+![](fe2.png)
+
+# Steps for training the model begins:
+
+1. Open "Anaconda Prompt" from the Start menu
+
+2. Navigate to this above folder:
+
+![](E.png)
+
+3. Now run the following command:
+
+       pip install -r requirements.txt
+       
+It will show the following screen -
+
+![](requirements.jpeg)
+
+
