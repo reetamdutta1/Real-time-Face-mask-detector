@@ -35,3 +35,13 @@ Be very careful while installing all the required software, as incompatible soft
 
 ![](fe1.png)
 
+# Setting up the environment -
+
+1. Go to Start and Search “environment variables”
+
+2. Click “Edit the system environment variables”. This should open the “System Properties” window
+
+3. In the opened window, click the “Environment Variables…” button to open the “Environment Variables” window.
+
+4. Under “System variables”, search for and click on the Path system variable, then click “Edit…”
+Add the following paths, then click “OK” to save the changes:
