@@ -32,3 +32,6 @@ Be very careful while installing all the required software, as incompatible soft
 2. Download the library for Windows 10
 
 3. Extract the contents of the zip file (i.e. the folder named cuda) inside <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.1\, where <INSTALL_PATH> points to the installation directory specified during the installation of the CUDA Toolkit. By default <INSTALL_PATH> = C:\Program Files
+
+<img src = "E:\ACADEMICS\3rd Year\Artificial Intelligence\Face MAsk\Real-time-Face-mask-detector\LinkedIn images>
+
