@@ -103,7 +103,6 @@ Inside the same folder, open another Anaconda terminal(do not close the previous
 
 After a few seconds, a separate window will appear where you can see your live webcam video feed.
 
-
 ![](final demo.jpg)
 
 Finally, we have finished making our model and we are getting pretty good results. You can try the same procedure for other projects on categorisation(like cats and dogs classifications) and more.
