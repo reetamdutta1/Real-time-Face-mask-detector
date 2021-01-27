@@ -79,4 +79,37 @@ It will show the following screen -
 
 ![](requirements.jpeg)
 
+After all the installations are over, it is finally time to train the model on our dataset.
 
+### NOTE: 
+This dataset folder contains two folders - "with_mask" and "without_mask". This basically contains two different types of images. One contains images of people wearing masks while the other one contains images where people are not wearing a mask.
+
+Normally for such projects, 1500-2000 images are enough to train the model. But here I have used 8600 images just for the sake of 99.99% accuracy. This will take a bit longer time to analyze for each epoch(iterations) but it will be worth the wait.
+
+4. Run the following code:
+
+       python train_mask_detector.py
+
+![](epoch.png)
+It can take 30-50 minutes to run all the 20 epochs depending on your hardware configuration. Please wait patiently. It is advised not to do any CPU/GPU intensive tasks while this is being done.
+
+# Difference in Accuracy
+
+![](accuracy compare.jpg)
+### Now we are ready to test our model in real-time
+Inside the same folder, open another Anaconda terminal(do not close the previous one). Now type the following line:
+
+    python detect_mask_video.py
+
+After a few seconds, a separate window will appear where you can see your live webcam video feed.
+
+![](final demo.jpg)
+
+Finally, we have finished making our model and we are getting pretty good results. You can try the same procedure for other projects on categorisation(like cats and dogs classifications) and more.
+
+## Contact me through:
+   WhatsApp: +91-7596985078
+
+   Email: reetamdutta1@gmail.com
+
+   Website: https://bit.ly/rdgraphics_website
