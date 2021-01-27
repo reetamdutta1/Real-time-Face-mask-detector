@@ -95,7 +95,8 @@ It can take 30-50 minutes to run all the 20 epochs depending on your hardware co
 
 # Difference in Accuracy
 
-![](accuracy compare.jpeg)
+![](accuracy compare.png)
+
 ### Now we are ready to test our model in real-time
 Inside the same folder, open another Anaconda terminal(do not close the previous one). Now type the following line:
 
